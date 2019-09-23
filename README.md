@@ -25,7 +25,16 @@ https://play.google.com/store?hl=ja
 var apps= document.getElementsByClassName("b8cIId ReQCgd Q9MA7b")
 ~~~
 
-上の文を実行するとappsにタイトルやリンクなどが含まれるオブジェクトが格納される。
+上の文を実行するとappsにタイトルやリンクなどが含まれるオブジェクトが格納される。  
+
+この時、
+~~~
+apps.length
+~~~
+を入力してappsの要素数が250より多くないか確認する。  
+
+250より多い場合は更新してやり直す。  
+※250より多い場合は余計な情報が含まれている可能性があるため
 
 次はappsに格納されたオブジェクトからタイトルやリンクを取得する。
 
