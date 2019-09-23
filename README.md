@@ -70,6 +70,7 @@ copy(str)
 ということで、増加分を新たに追加するpython（3系）のスクリプト appListIntegrator.pyを作成しました。  
 
 ### appListIntegrator.pyの使い方
+---
 まずは上記の方法でアプリのリストを作成します。  
 
 ここでは、最初に作成したリストをappList1.txtとし、２回目に作成したリストをappList2.txtとします。  
