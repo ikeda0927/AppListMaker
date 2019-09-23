@@ -22,9 +22,6 @@ class App:
     def getLink(self):
         return self.link
 
-    # def process(self):
-    #     print(self.name+':'+self.link)
-
 def lineFunc(line):
     global link
     if str(line)=='\n':
@@ -52,6 +49,7 @@ if __name__ == '__main__':
             lines=f1.readlines()
             for line in lines:
                 lineFunc(line)
+        sum1=len(apps)
         with open(sys.argv[2],'r')as f2:
             lines=f2.readlines()
             for line in lines:
@@ -61,8 +59,4 @@ if __name__ == '__main__':
             for app in apps:
                 f3.write(str(num)+' '+app.getLink()+'\n'+app.getName()+'\n\n')
                 num+=1
-        # num=0
-        # for app in apps:
-        #     print(num)
-        #     num+=1
-        #     app.process()
+        print('incremental:'+str(len(apps)-sum1))
