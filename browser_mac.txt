@@ -1,0 +1,783 @@
+0 /store/apps/details?id=org.mozilla.firefox
+Firefox ブラウザー 高速 & プライベート
+
+1 /store/apps/details?id=com.opera.browser
+無料 VPN を備えた Opera ブラウザ
+
+2 /store/apps/details?id=com.UCMobile.intl
+UC Browser- Free & Fast Video Downloader, News App
+
+3 /store/apps/details?id=com.ksmobile.cb
+CM Browser-広告ブロック、高速ダウンロード、プライバシー
+
+4 /store/apps/details?id=com.opera.mini.native
+Opera Mini Web ブラウザ
+
+5 /store/apps/details?id=com.kiwibrowser.browser
+Kiwi Browser - Fast & Quiet
+
+6 /store/apps/details?id=com.brave.browser
+Brave ブラウザ：安全とプライバシーに配慮した、高速ブラウジングと検索
+
+7 /store/apps/details?id=mark.via.gp
+Via - 最小＆最速のブラウザ
+
+8 /store/apps/details?id=com.microsoft.emmx
+Microsoft Edge
+
+9 /store/apps/details?id=com.ucturbo
+UC Browser Turbo- Fast download, Private, Ad block
+
+10 /store/apps/details?id=com.sec.android.app.sbrowser
+Samsung Internet Browser
+
+11 /store/apps/details?id=com.duckduckgo.mobile.android
+DuckDuckGo Privacy Browser
+
+12 /store/apps/details?id=com.mi.globalbrowser.mini
+Mint Browser - Video download, Fast, Light, Secure
+
+13 /store/apps/details?id=com.cloudmosa.puffinFree
+Puffin Web Browser
+
+14 /store/apps/details?id=com.noxgroup.app.browser
+Nox Browser - Fast & Safe Web Browser, Privacy
+
+15 /store/apps/details?id=quick.browser.secure
+Quick Browser
+
+16 /store/apps/details?id=com.uc.browser.en
+UC Mini- Best Tube Mate & Fast Video Downloader
+
+17 /store/apps/details?id=com.yandex.browser
+Yandex Browser with Protect
+
+18 /store/apps/details?id=jp.co.fenrir.android.sleipnir
+Sleipnir Mobile - ウェブブラウザ
+
+19 /store/apps/details?id=org.easyweb.browser
+Android用ブラウザ
+
+20 /store/apps/details?id=org.mozilla.focus
+Firefox Focus: プライバシー保護ブラウザー
+
+21 /store/apps/details?id=com.alohamobile.browser.lite
+Aloha Browser Lite - プライベートブラウザと無料VPN
+
+22 /store/apps/details?id=com.eagle.web.browser.internet.privacy.browser
+Private Browser - Smart & Fast Privacy Web Browser
+
+23 /store/apps/details?id=com.opera.touch
+Opera Touch ウェブブラウザ
+
+24 /store/apps/details?id=com.dolphin.browser.android.jp
+ドルフィンブラウザ：フラッシュ＆アドブロック対応最速ブラウザ
+
+25 /store/apps/details?id=org.torproject.torbrowser
+Tor Browser
+
+26 /store/apps/details?id=com.mx.browser
+Maxthon Browser - Fast & Safe Cloud Web Browser
+
+27 /store/apps/details?id=com.transsion.phoenix
+Phoenix Browser - 動画のダウンロード、プライベートで高速
+
+28 /store/apps/details?id=com.explore.web.browser
+ウェブブラウザ
+
+29 /store/apps/details?id=jp.ddo.pigsty.HabitBrowser
+Habit Browser - ウェブブラウザ
+
+30 /store/apps/details?id=com.oh.bro
+OHウェブブラウザ - 片手、ファスト＆プライバシー
+
+31 /store/apps/details?id=jp.hazuki.yuzubrowser
+Yuzu Browser: ウェブ ブラウザ
+
+32 /store/apps/details?id=secure.explorer.web.browser
+WebブラウザLite - 高速かつ安全
+
+33 /store/apps/details?id=com.hawk.android.browser
+Turbo Browser: Private & Fast Download
+
+34 /store/apps/details?id=net.fast.web.browser
+Webブラウザとウェブエクスプローラ
+
+35 /store/apps/details?id=com.apusapps.browser
+APUSブラウザ- 高速ダウンロード&アドブロック&目を保護する
+
+36 /store/apps/details?id=web.browser.emu.explorer
+Webブラウザ（Fast＆Secure Web Explorer）
+
+37 /store/apps/details?id=com.astool.android.smooz_app.free
+Smooz (スムーズ) ブラウザ
+
+38 /store/apps/details?id=internet.webbrowser.explorer
+ブラウザ
+
+39 /store/apps/details?id=com.cake.browser
+Cakeブラウザ
+
+40 /store/apps/details?id=net.rocket.browser
+Rocket Browser
+
+41 /store/apps/details?id=com.fevdev.nakedbrowserlts
+Naked Browser web browser LTS
+
+42 /store/apps/details?id=com.opera.browser.beta
+Opera beta Web ブラウザ
+
+43 /store/apps/details?id=com.opera.mini.native.beta
+Opera Mini beta Web ブラウザ
+
+44 /store/apps/details?id=com.yandex.browser.alpha
+Yandex Browser (alpha)
+
+45 /store/apps/details?id=com.exsoul
+Exsoul Web Browser - ウェブブラウザ
+
+46 /store/apps/details?id=acr.browser.barebones
+Lightning Browser - Web Browser
+
+47 /store/apps/details?id=fast.private.secure.browser
+Webブラウザ - 高速、プライベート、ニュース
+
+48 /store/apps/details?id=com.hsv.privatebrowser
+Private Browser & Incognito Browser
+
+49 /store/apps/details?id=fast.download.privacy.internet.explorer.im
+インターネットブラウザとエクスプローラ、広告ブロッカーブラウザ
+
+50 /store/apps/details?id=com.ghostery.android.ghostery
+Ghostery Privacy Browser
+
+51 /store/apps/details?id=fast.explorer.web.browser
+Webブラウザ＆ファストエクスプローラ
+
+52 /store/apps/details?id=com.mebrowser.webapp
+Me Browser
+
+53 /store/apps/details?id=com.browser.yo.indian
+Yo Browser - Fast, Secure, Powerful
+
+54 /store/apps/details?id=plus.browser.speedbrowser7g
+7G High Speed Browser
+
+55 /store/apps/details?id=com.hsv.freeadblockerbrowser
+無料広告ブロッカーブラウザ
+
+56 /store/apps/details?id=webexplorer.amazing.speed
+ブラウザ - 高速で安全
+
+57 /store/apps/details?id=jp.myumyu.piggybrowser
+さくらブラウザー：日本製で安心、広告ブロックと画像圧縮でパケ代節約、軽く速い、使いやすいブラウザー
+
+58 /store/apps/details?id=net.onecook.browser
+Stargonブラウザ - 広告ブロック、ビデオダウンローダー、速い
+
+59 /store/apps/details?id=com.eagle.smart.browser.free.browsing.fast.privacy.browse
+Smart Browser - Free, Fast, Secure Private Browser
+
+60 /store/apps/details?id=com.yandex.browser.beta
+Yandex Browser (beta)
+
+61 /store/apps/details?id=com.indie.dev.privatebrowserpro
+Private Browser Pro  - シークレットブラウジング
+
+62 /store/apps/details?id=work.ionut.browser
+Cameleon - Privacy AdBlock and Float Browser 🦎
+
+63 /store/apps/details?id=reactivephone.msearch
+Smart Search & Web Browser – light & fast engine
+
+64 /store/apps/details?id=com.browser.tssomas
+Super Fast Browser
+
+65 /store/apps/details?id=fast.secure.light.browser
+Indian Browser - Auto Detect Video Downloader
+
+66 /store/apps/details?id=org.torproject.torbrowser_alpha
+Tor Browser (Alpha)
+
+67 /store/apps/details?id=indian.browser.indianbrowser
+Indian Browser 4G
+
+68 /store/apps/details?id=arun.com.chromer
+Lynket Browser (previously Chromer)
+
+69 /store/apps/details?id=com.chrome.dev
+Chrome Dev
+
+70 /store/apps/details?id=com.robinapps.speedbrowser
+高速ブラウザ（スピード）
+
+71 /store/apps/details?id=com.hiwapps.browser
+ウェブブラウザ
+
+72 /store/apps/details?id=pure.lite.browser
+Pure Web Browser - ビデオのダウンロード、広告ブロッカー、プライバシーモード
+
+73 /store/apps/details?id=com.blacklion.browser
+ブラックライオンブラウザ‐動画ダウンロードに焦点を当てたブラウザ
+
+74 /store/apps/details?id=com.outcoder.browser
+Surfy Browser - Best UI, AdBlock, Text-to-Speech
+
+75 /store/apps/details?id=com.ninesky.browser
+Nineskyブラウザ
+
+76 /store/apps/details?id=net.upx.proxy.browser
+UPX Proxy Browserブロックを解除サイトWebプロキシブラウザ - 高速、プライベート
+
+77 /store/apps/details?id=com.myboyfriendisageek.airbrowser
+OverSkreen（フローティングブラウザ）
+
+78 /store/apps/details?id=com.cryptotab.android
+CryptoTab Browser
+
+79 /store/apps/details?id=com.internetexplorer.browser.web
+Internet Browser & Explorer
+
+80 /store/apps/details?id=com.fchatnet.minibrowser
+ABC Browser Pro - Jiyo Browser
+
+81 /store/apps/details?id=com.getkeepsafe.browser
+Keepsafe Browser: 高速、プライベート、安全
+
+82 /store/apps/details?id=com.cliqz.browser
+Cliqz – der Datenschutz-Browser
+
+83 /store/apps/details?id=mobi.browser.flashfox
+FlashFox - Flash Browser
+
+84 /store/apps/details?id=jp.co.lunascape.android.ilunascape
+Lunascape ウェブ ブラウザ
+
+85 /store/apps/details?id=com.udicorn.proxy
+Webサイトのブロックを解除する無料VPNプロキシブラウザ
+
+86 /store/apps/details?id=fyi.start.web.browser
+STARTインターネットブラウザ
+
+87 /store/apps/details?id=org.adblockplus.browser
+Adblock Browser Android版
+
+88 /store/apps/details?id=com.vcbrowser.mini.pro
+VC Browser Mini Pro - Browser with Adblock
+
+89 /store/apps/details?id=com.hsv.powerbrowser
+パワーブラウザ 🚀 高速、しかも安全
+
+90 /store/apps/details?id=co.madseven.browser
+Apolo Browser アポロ・ブラウザ
+
+91 /store/apps/details?id=net.ac.browser
+AC Browser
+
+92 /store/apps/details?id=browser4g.fast.internetwebexplorer
+4G ブラウザ - 高速で安全
+
+93 /store/apps/details?id=com.sec.android.app.sbrowser.beta
+Samsung Internet Browser Beta
+
+94 /store/apps/details?id=browser4g.internet.fast
+4Gブラウザ
+
+95 /store/apps/details?id=org.xbrowser.prosuperfast
+X超高速ブラウザプロ
+
+96 /store/apps/details?id=com.videodownloader.download.video.downloader
+高速ブラウザ - ビデオダウンローダ、プライベートビデオセーバー
+
+97 /store/apps/details?id=com.androidbull.incognito.browser
+シークレットブラウザ-独自の匿名ブラウザ
+
+98 /store/apps/details?id=netexplore.internetweb.browser4g
+Browser 4G
+
+99 /store/apps/details?id=com.gl9.cloudBrowser
+Surf Browser
+
+100 /store/apps/details?id=canhtechdevelopers.webbrowser
+Web Browser
+
+101 /store/apps/details?id=org.firstmm.browser
+1st Myanmar Browser
+
+102 /store/apps/details?id=org.mozilla.fenix
+Firefox Preview
+
+103 /store/apps/details?id=com.microsoft.intune.mam.managedbrowser
+Intune Managed Browser
+
+104 /store/apps/details?id=com.ecosia.android
+Ecosia - Trees & Privacy
+
+105 /store/apps/details?id=nu.tommie.inbrowser
+InBrowser・プライベートブラウジング
+
+106 /store/apps/details?id=com.tenta.android
+Tenta プライベートVPNブラウザ + アドブロッカー & ビデオダウンローダー (ベータ版)
+
+107 /store/apps/details?id=acr.browser.raisebrowserfull
+RITS Browser- SMART BROWSER
+
+108 /store/apps/details?id=com.xbrowser.play
+XBrowser - Super fast and Powerful
+
+109 /store/apps/details?id=com.keepsolid.privatebrowser
+Private Browser – プロキシブラウザ
+
+110 /store/apps/details?id=org.adblockplus.browser.beta
+Adblock Browser Beta: Block ads, browse faster
+
+111 /store/apps/details?id=com.lechneralexander.privatebrowser
+Privater Inkognito Browser
+
+112 /store/apps/details?id=hero.browser4g.internet
+4G ブラウザ - 高速で安全
+
+113 /store/apps/details?id=com.kwah.privatebrowser
+Private Browser
+
+114 /store/apps/details?id=com.chrome.beta
+Chrome Beta
+
+115 /store/apps/details?id=com.unittools.unlockwebsite
+無料のウェブサイトをブロック解除する - 個人的に閲覧する
+
+116 /store/apps/details?id=com.app.downloadmanager
+ダウンローダ＆プライベートブラウザ無料
+
+117 /store/apps/details?id=com.prism.download.adblock.privacy.flash.player.incognito.private_browser.browser
+Private Browser - Incognito Browser
+
+118 /store/apps/details?id=org.mozilla.firefox_beta
+Android 版 Firefox Beta
+
+119 /store/apps/details?id=tr.abak.simsekTarayici
+エーオンブラウザ、広告ブロッカーミニ
+
+120 /store/apps/details?id=explore.web.browser
+Web Browser
+
+121 /store/apps/details?id=org.iron.srware
+Iron Browser - by SRWare
+
+122 /store/apps/details?id=com.crowbar.beaverlite
+Frost - Private Browser
+
+123 /store/apps/details?id=info.guardianproject.orfox
+Orfox
+
+124 /store/apps/details?id=com.speedupbrowser4g5g
+Navi Browser
+
+125 /store/apps/details?id=iaea.nds.nuclides
+Isotope Browser
+
+126 /store/apps/details?id=com.orbitum.browser
+Браузер Orbitum
+
+127 /store/apps/details?id=tools.browser.webbrowser
+ウェブブラウザ
+
+128 /store/apps/details?id=adblock.browser.no.ads
+Adblocker Browser
+
+129 /store/apps/details?id=org.firstmm.freebrowser
+Free Myanmar Browser
+
+130 /store/apps/details?id=com.cloudmosa.puffinTV
+Puffin TV - テレビ専用Webブラウザ
+
+131 /store/apps/details?id=com.splite.browser
+Splite Browser - All social media + Dual Browser
+
+132 /store/apps/details?id=com.ledu.indiabrowser
+Mini Browser India - Fast Small
+
+133 /store/apps/details?id=com.pekobbrowser.unblocksites
+Pekob Browser - ウェブサイトのブロックを解除する
+
+134 /store/apps/details?id=com.vivaldi.browser
+Vivaldi Android β版
+
+135 /store/apps/details?id=com.technosoft.web.browser.internet.privacy.browser
+TK Browser
+
+136 /store/apps/details?id=com.browser.dual
+Dual Browser - Split Browser
+
+137 /store/apps/details?id=com.ume.browser.international
+Browser- Secure Search,Ad Block,Fast Download,News
+
+138 /store/apps/details?id=com.sony.promobile.ctbm.main
+Content Browser Mobile
+
+139 /store/apps/details?id=com.vzcreations.cfb.app
+Call From Browser
+
+140 /store/apps/details?id=iron.web.jalepano.browser
+Super Fast Browser
+
+141 /store/apps/details?id=lightweight.iostheme.fastinternet.webbrowser
+Web Browser - Star Browser
+
+142 /store/apps/details?id=com.fulldive.mobile
+Fulldive Browser: Earn Money& Gift Cards + Adblock
+
+143 /store/apps/details?id=com.alohamobile.vertexsurf
+Vertex Surf - мобильный веб браузер
+
+144 /store/apps/details?id=com.yandex.browser.lite
+Яндекс.Браузер Лайт: лёгкий, быстрый, безопасный
+
+145 /store/apps/details?id=acr.browser.butterfly
+ButterFly Browser
+
+146 /store/apps/details?id=de.ozerov.fully
+Fully Kiosk Browser & App Lockdown
+
+147 /store/apps/details?id=com.hexnode.browser
+Hexnode Kiosk Browser - The Secure Browser
+
+148 /store/apps/details?id=org.innocube.browsers.mandalay
+Mandalay Browser
+
+149 /store/apps/details?id=com.azka.browser.anti.blokir
+Azka Anti Block Browser - Unblock without VPN
+
+150 /store/apps/details?id=com.chimbori.hermitcrab
+Hermit • Lite Apps Browser
+
+151 /store/apps/details?id=pcr.browser.polarity
+Polarity Browser-Fast/No Ads
+
+152 /store/apps/details?id=com.procoit.kioskbrowser
+Kiosk Browser Lockdown
+
+153 /store/apps/details?id=com.cipherbrowser.cipher
+Cipher Browser - Ethereum Wallet & DApp Browser
+
+154 /store/apps/details?id=com.powerpoint45.lucidbrowser
+Lucid Browser
+
+155 /store/apps/details?id=com.technexa.indianbrowser
+Indian Browser - इंडियन ब्राउज़र
+
+156 /store/apps/details?id=com.webroot.secureweb
+Webroot SecureWeb Browser
+
+157 /store/apps/details?id=com.nationaledtech.spinbrowser
+SPIN Safe Browser: Best Filtered Web Browser
+
+158 /store/apps/details?id=com.webbrowserbeta
+Web Browser Beta Pro-Fastest Browser
+
+159 /store/apps/details?id=on.browser
+OnBrowser Lite || World's Lightest Browser
+
+160 /store/apps/details?id=nextapp.atlas
+Atlas Web Browser
+
+161 /store/apps/details?id=com.vegazs.browser
+Browser
+
+162 /store/apps/details?id=com.gikix.browser
+トラッキングや広告のないブラウジング
+
+163 /store/apps/details?id=com.secure.browser
+Secure Browser for Android
+
+164 /store/apps/details?id=com.haihaisoft.xvast
+Xvast browser
+
+165 /store/apps/details?id=com.mohan.browser
+Oreo browser 5G (very fast) Light weight
+
+166 /store/apps/details?id=com.evda.connecttor
+Anonymous Private VPN Browser
+
+167 /store/apps/details?id=com.inoccreativestudio.incognito.inbrowser.privatebrowser
+最速ブラウザ：無料セキュアブラウズ
+
+168 /store/apps/details?id=com.cosmic.webbrowser
+Cosmic Browser: Fast, Safe, Private & Ad-blocker
+
+169 /store/apps/details?id=br.marcelo.monumentbrowser
+Monument Browser: AdBlocker & Fast Downloads
+
+170 /store/apps/details?id=com.disconnect.samsungcontentblocker
+Disconnect for Samsung Internet Browser
+
+171 /store/apps/details?id=jp.co.yahoo.android.ybrowser
+Yahoo!ブラウザー：自動でメモリを最適化
+
+172 /store/apps/details?id=com.lexi.browser
+Lexi Browser - Unblock without VPN
+
+173 /store/apps/details?id=com.oh.brop
+OH Private Web Browser - Privacy by design
+
+174 /store/apps/details?id=org.mozilla.vrbrowser
+Firefox Reality Browser fast & private
+
+175 /store/apps/details?id=com.coccoc.trinhduyet
+Trình duyệt Cốc Cốc
+
+176 /store/apps/details?id=com.digidemic.browserbot
+Browser Bot
+
+177 /store/apps/details?id=com.browser.leaf_browser
+Leaf Browser
+
+178 /store/apps/details?id=com.appsverse.photon
+Photon Flash Player＆ブラウザ
+
+179 /store/apps/details?id=com.wSpeedBrowser4G
+Speed Browser 4G - Light & Fast
+
+180 /store/apps/details?id=com.sibimobilelab.amazebrowser
+Amaze Browser. Cast web videos
+
+181 /store/apps/details?id=com.z28j.feel
+神奇浏览器 - 简单而美好
+
+182 /store/apps/details?id=jp.ddo.pigsty.Habit_Browser
+Habit Browser classic
+
+183 /store/apps/details?id=studio.mobile.trust.browser
+Trust Myanmar Browser
+
+184 /store/apps/details?id=calc.gallery.lock
+Calc Vault-Photo,video locker,Safe Browser,Applock
+
+185 /store/apps/details?id=com.instantbits.cast.webvideo
+Web Video Cast|テレビブラウザ/ Chromecast / Roku / +
+
+186 /store/apps/details?id=com.swebmart.vgmmaxlite
+VGMLite Browser : Fast, Small & Powerful
+
+187 /store/apps/details?id=jp.co.hde.hsb
+HENNGE Secure Browser
+
+188 /store/apps/details?id=com.dewmobile.kuaiya.web
+Zapya WebShare - File Sharing in Web Browser
+
+189 /store/apps/details?id=com.w3engineers.banglabrowser
+Bangla Browser
+
+190 /store/apps/details?id=com.coccoc.trinhduyet_beta
+Trình duyệt Cốc Cốc Beta
+
+191 /store/apps/details?id=com.gears42.surefox
+SureFox Kiosk Browser Lockdown
+
+192 /store/apps/details?id=com.turkcell.yaani
+Yaani : Türkiye’nin Arama Motoru
+
+193 /store/apps/details?id=com.airwatch.browser
+Web - Workspace ONE
+
+194 /store/apps/details?id=by4a.reflect
+Package Browser
+
+195 /store/apps/details?id=com.mirmay.privatedownloader
+Private Downloader
+
+196 /store/apps/details?id=org.toshi
+Coinbase Wallet — Crypto Wallet & DApp Browser
+
+197 /store/apps/details?id=com.salamweb.salambrowser
+SalamWeb Browser - Muslim Internet App
+
+198 /store/apps/details?id=com.jrummyapps.rootbrowser.classic
+Root Browser Classic
+
+199 /store/apps/details?id=com.download.downloadbrowser
+Aha Browser - Fast Browsing ,Video Download,Secure
+
+200 /store/apps/details?id=work.twob.threed
+3D Geeks 🤓: Thingiverse Browser for 3D Printing
+
+201 /store/apps/details?id=com.trusteer.securebrowser.trusteer
+Trusteer Mobile Browser
+
+202 /store/apps/details?id=com.nomone.vrbrowser
+NOMone VR Browser
+
+203 /store/apps/details?id=cybersky.snapsearch
+Snap Search: Incognito Anonymous Search & Browser
+
+204 /store/apps/details?id=com.kaweapp.webexplorer
+Web Explorer
+
+205 /store/apps/details?id=com.theberros.veganrecipebrowser
+Vegan Recipe Browser
+
+206 /store/apps/details?id=com.sitekiosk.android.full
+SiteKiosk Kiosk Browser
+
+207 /store/apps/details?id=com.druk.servicebrowser
+Service Browser
+
+208 /store/apps/details?id=com.trusteer.securebrowser.trusteerjp
+Trusteer Mobile Browser Japan
+
+209 /store/apps/details?id=com.imslp.app
+IMSLP Browser
+
+210 /store/apps/details?id=com.eagle.gallery.photos.videos.album.hd.gallery.editor
+ベストギャラリー - フォトマネージャー、イメージギャラリーエディター
+
+211 /store/apps/details?id=com.starmicronics.starwebprntpaid
+Star webPRNT Browser
+
+212 /store/apps/details?id=com.cloudmosa.puffinFB
+Puffin for Facebook
+
+213 /store/apps/details?id=org.greatfire.freebrowser
+自由浏览
+
+214 /store/apps/details?id=com.jio.web
+JioBrowser - Fast, Lite & Indian Language support.
+
+215 /store/apps/details?id=com.oxobrowser.allinonebrowser
+All in one browser app
+
+216 /store/apps/details?id=com.microsoft.bing
+Microsoft Bing 検索
+
+217 /store/apps/details?id=com.lootr
+Lootr Browser - Instant Coupons & Deals
+
+218 /store/apps/details?id=com.tnsua.browser
+K.Browser
+
+219 /store/apps/details?id=nu.tommie.inbrowser.beta
+InBrowser Beta
+
+220 /store/apps/details?id=com.deezus.chanoran
+Read Chan: 4chan Browser
+
+221 /store/apps/details?id=com.anotap.vpnoklite
+VPN Browser для Одноклассников Lite
+
+222 /store/apps/details?id=info.bite.speedbrowser
+4 Speed Browser - Fast,Secure, Mobile Browser 2018
+
+223 /store/apps/details?id=net.bluehack.blu
+BLUブラウザ:AdBlock、高速かつきれいな、プライバシーほご
+
+224 /store/apps/details?id=io.multy
+Multy - Bitcoin, Ethereum, Browser wallet
+
+225 /store/apps/details?id=org.adblockplus.adblockplussbrowser
+Adblock Plus for Samsung Internet - Browse safe.
+
+226 /store/apps/details?id=com.arxiz.adorbx
+Adorbx: Encrypted Google, News, Browser + More 💯
+
+227 /store/apps/details?id=com.google.android.webview
+AndroidシステムのWebView
+
+228 /store/apps/details?id=free.video.downloader.freevideodownloader
+無料ビデオダウンローダー
+
+229 /store/apps/details?id=video.downloader.videodownloader
+無料動画ダウンロード
+
+230 /store/apps/details?id=com.ucimini.internetbrowser
+Uci Mini
+
+231 /store/apps/details?id=com.dv.adm
+Advanced Download Manager
+
+232 /store/apps/details?id=nextapp.websharing
+WebSharingLite (File Manager)
+
+233 /store/apps/details?id=com.appsverse.privatebrowser
+Nova Private Browser Free
+
+234 /store/apps/details?id=com.aospstudio.android.apps.mediabook
+Mera Social: Privacy-oriented fast browser
+
+235 /store/apps/details?id=com.gaston.greennet
+GreenNet - Unlimited Free VPN & Private Browser
+
+236 /store/apps/details?id=org.torproject.android
+Orbot: Tor for Android
+
+237 /store/apps/details?id=it.ideasolutions.amerigo
+Amerigo
+
+238 /store/apps/details?id=com.qbedded.IGCBrowser
+IGC Browser and Viewer
+
+239 /store/apps/details?id=com.chrome.canary
+Chrome Canary（試験運用版）
+
+240 /store/apps/details?id=com.startpage.mobile
+Startpage Private Search
+
+241 /store/apps/details?id=com.citrix.browser.droid
+Citrix Secure Web
+
+242 /store/apps/details?id=it.appideas.totaldownloader
+Total
+
+243 /store/apps/details?id=it.ideasolutions.kyms
+KYMS - Keep your media safe
+
+244 /store/apps/details?id=com.master.unblockweb
+Unblock Websites — Unblock Proxy App
+
+245 /store/apps/details?id=com.visvanoid.secretbrowse
+私のインターネットの保護し、高速
+
+246 /store/apps/details?id=com.coconuts.webnavigator
+ブックマークフォルダ
+
+247 /store/apps/details?id=com.ineedyourservice.RBrowser
+Rbrowser
+
+248 /store/apps/details?id=com.rocketshipapps.adblockfast
+Adblock Fast
+
+249 /store/apps/details?id=castwebbrowsertotv.castwebvideo.webvideocaster
+TVにキャスト: Chromecast, Xbox, Roku, FireTV
+
+250 /store/apps/details?id=com.google.android.googlequicksearchbox
+Google
+
+251 /store/apps/details?id=com.tobykurien.webapps
+WebApps Sandboxed Browser
+
+252 /store/apps/details?id=com.android.chrome
+Google Chrome: 高速で安全
+
+253 /store/apps/details?id=com.appfour.wearbrowser
+Web Browser for Wear OS (Android Wear)
+
+254 /store/apps/details?id=com.mebrowsermini.webapp
+Me Browser Mini - Fast & Secure
+
+255 /store/apps/details?id=com.ape.apps.networkbrowser
+ネットワークブラウザ
+
+256 /store/apps/details?id=com.tchiser.android.chillout
+Tchiser - Internet explore & Web Browser
+
+257 /store/apps/details?id=com.freevpnintouch
+Free VPN - Betternet VPN Proxy & Wi-Fi Security
+
+258 /store/apps/details?id=com.lumicollect.android
+Lumi Collect - ERC721 Wallet&ETH dapp browser
+
+259 /store/apps/details?id=com.betafish.adblocksbrowser
+AdBlock for Samsung Internet
+
+260 /store/apps/details?id=com.eagle.web.browser.fast.privacy.browsers.donwloads.free
+Fast Browser - Free Browsing, Secure Browser, Fast
+
