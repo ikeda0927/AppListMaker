@@ -1,0 +1,750 @@
+0 /store/apps/details?id=com.google.android.apps.magazines
+Google ニュース: 国内・海外のトップニュース
+
+1 /store/apps/details?id=com.microsoft.amp.apps.bingnews
+Microsoft ニュース
+
+2 /store/apps/details?id=jp.gocro.smartnews.android
+スマートニュース - 無料でニュースや天気・エンタメ・クーポン情報も届く満足度No.1ニュースアプリ
+
+3 /store/apps/details?id=jp.co.yahoo.android.news
+Yahoo!ニュース　地震などの災害速報と防災通知、エンタメ情報、24時間ライブの動画ニュースも無料
+
+4 /store/apps/details?id=bbc.mobile.news.ww
+BBC News
+
+5 /store/apps/details?id=com.sony.nfx.app.sfrc
+ニューススイート：新聞・雑誌ニュースが無料で読める
+
+6 /store/apps/details?id=jp.or.nhk.news
+NHK ニュース・防災
+
+7 /store/apps/details?id=flipboard.app
+Flipboard
+
+8 /store/apps/details?id=com.mobilesrepublic.appy
+News Republic – ニュース速報
+
+9 /store/apps/details?id=com.kddi.android.newspass
+ニュースパス　かんたん操作で無料ニュースがすぐ読める
+
+10 /store/apps/details?id=com.zumobi.msnbc
+NBC News: Breaking News, US News & Live Video
+
+11 /store/apps/details?id=mnn.Android
+AP News
+
+12 /store/apps/details?id=com.thomsonreuters.reuters
+ロイター ニュース
+
+13 /store/apps/details?id=jp.naver.linenews.android
+LINE公式ニュースアプリ / LINE NEWS
+
+14 /store/apps/details?id=jp.newsdigest
+ニュース・地震速報NewsDigest/ニュースダイジェスト
+
+15 /store/apps/details?id=com.foxnews.android
+Fox News: Breaking News, Live Video & News Alerts
+
+16 /store/apps/details?id=com.gunosy.android
+グノシー  エンタメニュース・スポーツニュースも無料
+
+17 /store/apps/details?id=com.abc.abcnews
+ABC News - US & World News
+
+18 /store/apps/details?id=com.newspicks
+ソーシャル経済メディア - NewsPicks
+
+19 /store/apps/details?id=jp.co.ntv.news24
+日テレニュース24
+
+20 /store/apps/details?id=com.nttdocomo.android.dmenunews
+dmenuニュース　無料で読めるドコモが提供する安心信頼のニュースアプリ
+
+21 /store/apps/details?id=com.nifty.snews.android
+ニュース 新聞 雑誌 無料読み放題！天気予報ニュース アプリ
+
+22 /store/apps/details?id=com.guardian
+The Guardian - World news, Sport and Finance
+
+23 /store/apps/details?id=com.euronews.express
+Euronews: Daily breaking world news & Live TV
+
+24 /store/apps/details?id=com.nytimes.android
+NYTimes - Latest News
+
+25 /store/apps/details?id=com.huffingtonpost.android
+ハフィントンポスト
+
+26 /store/apps/details?id=com.devhd.feedly
+Feedly - Smarter News Reader
+
+27 /store/apps/details?id=jp.co.sankei.sankei_plus
+産経プラス - 産経新聞グループ公式ニュースアプリ
+
+28 /store/apps/details?id=com.msn.jp.sankei.news_app
+産経ニュース
+
+29 /store/apps/details?id=com.usatoday.android.news
+USA TODAY
+
+30 /store/apps/details?id=org.npr.android.news
+NPR News
+
+31 /store/apps/details?id=com.idmedia.android.newsportal
+DW - Breaking World News
+
+32 /store/apps/details?id=com.news360.news360app
+News360: Personalized News
+
+33 /store/apps/details?id=com.msnbc.nightlynews
+NBC Nightly News
+
+34 /store/apps/details?id=com.world.news.appl
+World News
+
+35 /store/apps/details?id=com.bloomberg.android.plus
+Bloomberg: Market & Financial News
+
+36 /store/apps/details?id=com.appspot.parisiennneapps.simplenews
+ライトニュース-ラジオも聞けるシンプルなNHK用RSSリーダ
+
+37 /store/apps/details?id=net.aljazeera.english
+Al Jazeera English
+
+38 /store/apps/details?id=com.nikkei.newspaper
+日本経済新聞 電子版【公式】／経済ニュースアプリ
+
+39 /store/apps/details?id=com.rt.mobile.english
+RT News
+
+40 /store/apps/details?id=it.pinenuts.rassegnastampa
+Fast News
+
+41 /store/apps/details?id=com.bskyb.skynews.android
+Sky News: Breaking, UK, & World
+
+42 /store/apps/details?id=jp.ne.goo.app.news
+gooニュース あなたも私も今日がパッと読める
+
+43 /store/apps/details?id=jp.co.fenrir.tvAsahiNews
+テレ朝news / 流れるタイムライン　動画で見るニュース
+
+44 /store/apps/details?id=com.cubeflux.news
+SBS NEWS
+
+45 /store/apps/details?id=jp.itmedia.android.NewsReader
+IT専門ニュース - ITmedia for Android
+
+46 /store/apps/details?id=wsj.reader_sp
+The Wall Street Journal：ビジネス&マーケットニュース
+
+47 /store/apps/details?id=com.opera.app.news
+Opera News - Trending news and videos
+
+48 /store/apps/details?id=com.noinnion.android.newsplus
+News+ | Google News RSS Reader
+
+49 /store/apps/details?id=jp.zenkoku.quicknews
+新聞 最新のニュースを全紙無料でサクサクまとめ読み
+
+50 /store/apps/details?id=jp.co.yahoo.android.yjtop
+Yahoo! JAPAN　-ニュース・スポーツ・検索・天気・地震情報・防災・PayPay・クーポン
+
+51 /store/apps/details?id=com.tvb.iNews
+無綫新聞
+
+52 /store/apps/details?id=com.clem.nhkradio
+每日NHK日语新闻
+
+53 /store/apps/details?id=com.ss.android.article.master.ja
+TopBuzz（トップバズ）- 無料ニュース・動画まとめアプリ
+
+54 /store/apps/details?id=com.adelinolobao.japannews
+日本ニュース
+
+55 /store/apps/details?id=uk.co.economist
+The Economist
+
+56 /store/apps/details?id=com.world.news.alap
+World News 📰: A Global and International News App
+
+57 /store/apps/details?id=com.worldnews
+World News
+
+58 /store/apps/details?id=com.thomsonreuters.reuterstv
+Reuters TV: Video News
+
+59 /store/apps/details?id=com.bionicapps.newsreader
+News Reader
+
+60 /store/apps/details?id=it.pinenuts.technews
+Tech News
+
+61 /store/apps/details?id=com.newsinlevels
+English News in Levels
+
+62 /store/apps/details?id=ma.safe.bn
+Breaking News Today : Local & Breaking
+
+63 /store/apps/details?id=android.AbcApplication
+ABC NEWS
+
+64 /store/apps/details?id=jp.co.japantimes.www
+The Japan Times
+
+65 /store/apps/details?id=com.quick.world.news
+Quick World News | Podcast & Newspaper
+
+66 /store/apps/details?id=com.innologica.inoreader
+Inoreader - RSS＆ニュースリーダー
+
+67 /store/apps/details?id=io.github.hidroh.materialistic
+Materialistic - Hacker News
+
+68 /store/apps/details?id=com.stevenclift.scradio
+1 Radio News - Hourly, Podcasts, Live News
+
+69 /store/apps/details?id=org.un.mobile.news
+UN News Reader
+
+70 /store/apps/details?id=mainichi.jp.appl
+毎日新聞ニュース
+
+71 /store/apps/details?id=com.haystack.android
+Haystack TV: Local & World News - Free
+
+72 /store/apps/details?id=com.briox.riversip.android.general.israel
+Israel & Middle East News
+
+73 /store/apps/details?id=org.jumborss.worldnews
+ニュース | 新聞が
+
+74 /store/apps/details?id=gov.bbg.voa
+VOA News
+
+75 /store/apps/details?id=com.briox.riversip.rnd.cybersecurity
+Cyber Security News
+
+76 /store/apps/details?id=com.scmp.newspulse
+South China Morning Post
+
+77 /store/apps/details?id=com.ml.goodnewsnetwork
+Good News Network
+
+78 /store/apps/details?id=live.free.tv_jp
+無料テレビ視聴が見放題：ニュース、天気予報、見逃し番組、ドラマ、映画、アニメ、ワンセグ不要
+
+79 /store/apps/details?id=jp.text.quicknews
+文字中心の軽快なニュースが全紙無料でサクサク読める/無料新聞
+
+80 /store/apps/details?id=jp.co.rakuten.InfoseekNews
+楽天Infoseekニュース-速報、芸能スクープなど満載
+
+81 /store/apps/details?id=com.cbsinteractive.cnet
+CNET: Best Tech News, Reviews, Videos & Deals
+
+82 /store/apps/details?id=com.barisefe.technews
+Tech News
+
+83 /store/apps/details?id=com.inkl.app
+inkl news - Unlock the world's best news sources
+
+84 /store/apps/details?id=de.axelspringer.yana
+upday news for Samsung
+
+85 /store/apps/details?id=jp.co.excite.news
+ニュース速報が圏外で読める！しかも無料:エキサイトニュース
+
+86 /store/apps/details?id=com.thejoint.news
+The Joint: Diverse, Weird & Offbeat News Summaries
+
+87 /store/apps/details?id=li.yapp.app8824726E
+TBSニュース- テレビ動画が見られる無料ニュースアプリ
+
+88 /store/apps/details?id=it.pinenuts.androidnoticias
+News on Android™
+
+89 /store/apps/details?id=com.grapplemobile.skynewsarabia
+Sky News Arabia
+
+90 /store/apps/details?id=com.ductho.news24h
+Headline News, US Breaking News Today, World News
+
+91 /store/apps/details?id=com.audionowdigital.player.bbcworld
+BBC World Service
+
+92 /store/apps/details?id=com.briox.riversip.tech.space
+Space & Astronomy News
+
+93 /store/apps/details?id=com.africanews.android
+Africanews - Daily & Breaking News in Africa
+
+94 /store/apps/details?id=com.cryptonews
+Crypto News
+
+95 /store/apps/details?id=com.briox.riversip.android.tech.science
+Science News & Discoveries - NF
+
+96 /store/apps/details?id=com.all.news
+すべてのニュース
+
+97 /store/apps/details?id=com.us.news.japps
+USA News- all US breaking news in Single app
+
+98 /store/apps/details?id=flipboard.boxer.app
+Flipboard Briefing
+
+99 /store/apps/details?id=com.world.news.tech
+Tech News World
+
+100 /store/apps/details?id=com.appsfornexus.dailysciencenews
+Science News Daily - Fastest Science News App
+
+101 /store/apps/details?id=cointelegraph.com
+コインテレグラフ : 仮想通貨ニュース
+
+102 /store/apps/details?id=com.briox.riversip.android.tech.defense
+Defense News: Military, Intelligence and more
+
+103 /store/apps/details?id=com.buzzfeed.android
+BuzzFeed
+
+104 /store/apps/details?id=com.adelinolobao.chinanews
+中国ニュース
+
+105 /store/apps/details?id=info.newsapps.science
+Science News - Science Channel
+
+106 /store/apps/details?id=com.teletrader.android.rnews
+Breaking The News
+
+107 /store/apps/details?id=com.allaboutnews.gamingnews
+ゲームのニュース＆レビュー
+
+108 /store/apps/details?id=com.mobilonia.appdater
+appdater - Breaking and Trending News
+
+109 /store/apps/details?id=com.daytoplay
+ToPlay - Games & Gaming news
+
+110 /store/apps/details?id=tokyo.jcnews
+JCnews/アニメ＆声優＆ゲームのニュースをお届け！
+
+111 /store/apps/details?id=done.lumi
+Lumi News
+
+112 /store/apps/details?id=net.solomob.android.newshog
+NewsHog: News & Weather
+
+113 /store/apps/details?id=com.curazy
+笑える暇つぶしニュース！おもしろ動画マンガも無料-クレイジー
+
+114 /store/apps/details?id=com.elysiumlabs.newsbytes
+NewsBytes: Latest News App
+
+115 /store/apps/details?id=com.sputniknews.sputnik
+Sputnik
+
+116 /store/apps/details?id=com.eterno
+Dailyhunt (Newshunt)- Cricket, News,Videos
+
+117 /store/apps/details?id=info.newsapps.africa
+Africa News & Reviews 24h | Africa News Magazine
+
+118 /store/apps/details?id=com.rediff.android.news
+Rediff News
+
+119 /store/apps/details?id=english.news.india
+English News - India
+
+120 /store/apps/details?id=com.dwarfplanet.bundle
+Bundle Breaking News
+
+121 /store/apps/details?id=news.lastly.android
+Breaking news today - Lastly News
+
+122 /store/apps/details?id=com.beebom.app.beebom
+Beebom - Instant Tech News
+
+123 /store/apps/details?id=anews.com
+Anews: все новости и блоги
+
+124 /store/apps/details?id=com.rakupin.minnanonews
+Mr.News-無料ニュース(ふりがなを振る機能付き)
+
+125 /store/apps/details?id=com.france24.androidapp
+FRANCE 24 - L'actualité internationale en direct
+
+126 /store/apps/details?id=com.newsvoice.newsvoice
+Newsvoice - Unbiased & Real News Feed, USA & World
+
+127 /store/apps/details?id=com.nis.app
+Inshorts - 60 words News summary
+
+128 /store/apps/details?id=com.world.newspapers
+World Newspapers
+
+129 /store/apps/details?id=com.thealllatestnews.uk.newsreader
+U.K News: Breaking News, Showbiz & Celebrity
+
+130 /store/apps/details?id=jp.kasplus.english_languagenewspaper
+Listen News - 英語ニュースをリスニング＆リーディング 無料の英字新聞読み上げアプリ
+
+131 /store/apps/details?id=com.andromo.dev503376.app539305
+World News Today
+
+132 /store/apps/details?id=com.rfi.androidapp
+RFI - Toute l'actualité et les infos en direct
+
+133 /store/apps/details?id=current_news.news.uk.us.world_breaking_news.breakingnews.world_news.news.worldnews.worldnews
+World news-Breaking news-Current news-Newspaper
+
+134 /store/apps/details?id=hwnews.com.hwnews
+HW News Network
+
+135 /store/apps/details?id=kr.co.kbs.news301
+KBS 뉴스
+
+136 /store/apps/details?id=com.doapps.android.mln.MLN_4b58f048a3aff4df5db305a0cdf5a273
+NTV News
+
+137 /store/apps/details?id=io.sportnews
+Sport News
+
+138 /store/apps/details?id=com.washingtonpost.android
+The Washington Post
+
+139 /store/apps/details?id=com.andromo.dev331820.app411729
+WORLD NEWS
+
+140 /store/apps/details?id=com.landflab.worldnews.tv
+World News TV : Breaking news
+
+141 /store/apps/details?id=com.gulfnews.newsapp
+Gulf News
+
+142 /store/apps/details?id=com.linguistica360.newsinslowspanish
+News in Slow Spanish
+
+143 /store/apps/details?id=com.headlines.livenewsupdate
+Live News Online Updates
+
+144 /store/apps/details?id=com.world.news.headlines
+World News
+
+145 /store/apps/details?id=com.timesnowmobile.TimesNow
+Times Now - English and Hindi News App
+
+146 /store/apps/details?id=com.box.app.news
+NewsBox Pro - 無料でエンタメ·動画·天気速報が見れるトップニュースアプリ
+
+147 /store/apps/details?id=com.allaboutnews.hongkongnews
+香港新闻 - 最新消息 (Hong Kong)
+
+148 /store/apps/details?id=com.linecorp.livedoornews
+livedoor NEWS
+
+149 /store/apps/details?id=com.world.news.cji
+World News/international and global news updates.
+
+150 /store/apps/details?id=qoshe.com
+意見、ライター、記事、ニュース
+
+151 /store/apps/details?id=com.adelinolobao.periodicosdeespana
+Periódico de España
+
+152 /store/apps/details?id=com.cnbc.client
+CNBC: Breaking Business News & Live Market Data
+
+153 /store/apps/details?id=ca.cbc.mobile.android.cbcnewsandroidwebview
+CBC News
+
+154 /store/apps/details?id=com.microsoft.amp.apps.bingfinance
+MSN マネー - 株式相場 & ニュース
+
+155 /store/apps/details?id=ma.safe.bnau
+Australia Breaking News & Local News For Free
+
+156 /store/apps/details?id=com.stevenclift.tvnewsapp
+TV News - News Video App
+
+157 /store/apps/details?id=com.newsandnews.app
+News and News
+
+158 /store/apps/details?id=com.osinit.newsaggregatorwidget
+All News Widget
+
+159 /store/apps/details?id=com.nigeria.news
+Nigeria News
+
+160 /store/apps/details?id=com.naij.android
+Nigeria News NAIJ Legit.ng: Breaking Latest Legit
+
+161 /store/apps/details?id=com.adelinolobao.mexiconoticias
+México Noticias
+
+162 /store/apps/details?id=coglay.kasotsukanewsmatome
+仮想通貨ニュース大図鑑
+
+163 /store/apps/details?id=com.indianexpress.android
+Headlines, India News & epaper - Indian Express
+
+164 /store/apps/details?id=com.home.news.breaking
+News Home: Breaking News, Local & World News Today
+
+165 /store/apps/details?id=com.ftbpro.app
+90min - スポーツニュース サッカー
+
+166 /store/apps/details?id=com.briox.riversip
+Tech News & Reviews - VR, Drones, Startups & More
+
+167 /store/apps/details?id=com.banginews
+Bangla News & TV: Bangi News
+
+168 /store/apps/details?id=com.til.timesnews
+India News, Latest News App, Live News Headlines
+
+169 /store/apps/details?id=com.newstab
+NewsTab: Smart RSS Reader
+
+170 /store/apps/details?id=com.adelinolobao.australianews
+Australia News
+
+171 /store/apps/details?id=com.zeenews.hindinews
+Zee News Live
+
+172 /store/apps/details?id=com.ft.news
+Financial Times
+
+173 /store/apps/details?id=com.nextmining.reader
+Learn English with News,TV,YouTube,TED - ScanNews
+
+174 /store/apps/details?id=onanmobilesoftware.newspaper
+All English Newspapers Daily - Popular News papers
+
+175 /store/apps/details?id=co.vpsoft.world_newspapers
+World Newspapers - World News
+
+176 /store/apps/details?id=com.zumobi.android.automobile
+Automobile News & Reviews
+
+177 /store/apps/details?id=ma.safe.bnus
+US Breaking News: Latest Local News & Breaking
+
+178 /store/apps/details?id=com.dakshgowda.worldnews
+India & World News
+
+179 /store/apps/details?id=com.easyroid.newsheadlines
+Hot News - News Headlines
+
+180 /store/apps/details?id=com.news.india.newspaper
+Top10 India News English Paper
+
+181 /store/apps/details?id=com.toi.reader.activities
+News by The Times of India Newspaper - Latest News
+
+182 /store/apps/details?id=jp.co.newspaper.premium
+全紙無料で読める！地震の速報も最速に！新聞NEXT！
+
+183 /store/apps/details?id=de.impactpartner.goodnews
+Good News
+
+184 /store/apps/details?id=com.world.news.anqsjuvneksnzcedgluq
+WORLD NEWS
+
+185 /store/apps/details?id=com.tiwaremobile.newtifications
+Newtification News Free
+
+186 /store/apps/details?id=net.jimblackler.newswidget
+UK & World News
+
+187 /store/apps/details?id=com.newsinternet.francenews
+France News
+
+188 /store/apps/details?id=com.aol.mobile.techcrunch
+TechCrunch
+
+189 /store/apps/details?id=com.cbn.cbnnews.app.android.christian.news
+CBN News - Balanced Reporting & Breaking Headlines
+
+190 /store/apps/details?id=net.bakadayo.f1
+最新のF1ニュースを手軽に - News for F1
+
+191 /store/apps/details?id=com.extremeenjoy.tamilpaper
+Tamil News Alerts & Live TV
+
+192 /store/apps/details?id=com.linguistica360.newsinslowfrench
+News in Slow French
+
+193 /store/apps/details?id=ma.safe.bnca
+Canada Breaking News & Local News For Free
+
+194 /store/apps/details?id=com.tachanfil.usanews
+USA News
+
+195 /store/apps/details?id=jp.co.oricon.newsandranking
+ORICON NEWS - 無料で最新ニュースをお届けする総合トレンドメディア
+
+196 /store/apps/details?id=com.moblino.countrynews
+News - Newspaper & Magazine
+
+197 /store/apps/details?id=com.indianewsapps.tamilnews
+Tamil News India Newspapers
+
+198 /store/apps/details?id=com.world.news.jitendo
+World News
+
+199 /store/apps/details?id=net.frju.flym
+Flym News Reader
+
+200 /store/apps/details?id=com.barrons.us
+Barron’s:  Stock Markets & Financial News
+
+201 /store/apps/details?id=tv.abema
+AbemaTV -無料インターネットテレビ局 -ニュースやアニメ、音楽などの動画が見放題
+
+202 /store/apps/details?id=com.kami.android
+Philippine News KAMI: Latest & Breaking News App
+
+203 /store/apps/details?id=com.hatsune.eagleee
+Scooper News: Trending News, Videos, Live Football
+
+204 /store/apps/details?id=com.unews.urdu
+Urdu News - Pakistan News
+
+205 /store/apps/details?id=com.mobstac.thehindu
+The Hindu: English News Today, Current Latest News
+
+206 /store/apps/details?id=jp.co.yahoo.android.news.senior
+Yahoo!ニュース アプリ for シンプルスマホ
+
+207 /store/apps/details?id=com.idl.malayalam.news
+Malayalam News-News Paper, TV News and Radio News
+
+208 /store/apps/details?id=uk.co.bbc.mundo
+BBC Mundo
+
+209 /store/apps/details?id=com.wapit.carbuzz
+CarBuzz - Daily Car News
+
+210 /store/apps/details?id=com.adelinolobao.malaysianews
+Malaysia News
+
+211 /store/apps/details?id=all.world.newspapers.and.news
+新聞 - 日本と世界のニュース
+
+212 /store/apps/details?id=jp.co.yahoo.android.sports.sportsnavi
+スポーツナビ‐野球/サッカー/ゴルフなど速報、ニュースが満載
+
+213 /store/apps/details?id=com.infact.qz
+inFact - News, Facts and more
+
+214 /store/apps/details?id=com.aryservices.arynews.en
+ARY NEWS
+
+215 /store/apps/details?id=com.checkitt
+Ground News: Be informed
+
+216 /store/apps/details?id=com.newsdog
+NewsDog - Breaking News, Viral Video, Hot Story
+
+217 /store/apps/details?id=com.programmingtunes.iraniannews
+Iran News English | All Iran Newspapers
+
+218 /store/apps/details?id=com.abclocal.wabc.news
+WABC Eyewitness News
+
+219 /store/apps/details?id=jp.co.shogakukan.postseven
+NEWSポストセブン
+
+220 /store/apps/details?id=com.newsusa
+US News - USA breaking news
+
+221 /store/apps/details?id=com.economist.darwin
+Economist Espresso
+
+222 /store/apps/details?id=com.adelinolobao.serbianews
+Srbija Vesti
+
+223 /store/apps/details?id=libertynation.dcm
+LibertyNation.com News & Commentary
+
+224 /store/apps/details?id=com.aibl.tamilnewslivetv.onlinetamilnewspaper
+Tamil News LIVE – All Tamil Newspaper
+
+225 /store/apps/details?id=com.universal.breakingfoxnews
+Breaking News for Fox News
+
+226 /store/apps/details?id=com.tamilnewslivetv.tamilnewspaper
+Tamil News Live And Daily Tamil News Paper
+
+227 /store/apps/details?id=com.akhbar.news.arab
+أخبار العالم العاجلة
+
+228 /store/apps/details?id=com.awnry.android.nawnry
+News & Weather
+
+229 /store/apps/details?id=com.imobaio.android.apps.newsreader
+News Reader - 最新ニュース
+
+230 /store/apps/details?id=com.udn.news
+udn News
+
+231 /store/apps/details?id=com.cybersportnews
+Cyber Sport News
+
+232 /store/apps/details?id=it.pinenuts.usanews
+USA Press News
+
+233 /store/apps/details?id=com.allinone.newsindia
+All Indian News App : All In One Newspapers App
+
+234 /store/apps/details?id=jp.co.yahoo.android.ybuzzdetection
+Yahoo!リアルタイム検索　ツイッター検索の決定版
+
+235 /store/apps/details?id=com.worldnews.daily
+World Breaking News
+
+236 /store/apps/details?id=com.sonus.news.sonusw
+All Newspapers
+
+237 /store/apps/details?id=com.worldmedia.canadanews
+Canada News
+
+238 /store/apps/details?id=com.toi.cityapp
+Times City - Local News Alerts
+
+239 /store/apps/details?id=topnews.newspaper.news.breaking.japan.news.current.japan.japancurrentnews_japanbreakingnews
+Japan current news-Japan Breaking news-japanese
+
+240 /store/apps/details?id=ma.safe.bnuk
+UK Breaking News & Local UK News For Free
+
+241 /store/apps/details?id=com.exigenciaapps.usatopbreakingnewsradio
+USA Radio News - Top Breaking and Latest News
+
+242 /store/apps/details?id=com.livenewsnow.headlines.update
+Live News | Get Latest News Updates & Headlines
+
+243 /store/apps/details?id=com.worldnewsnow4alead.app
+اخبار العالم الآن
+
+244 /store/apps/details?id=com.app.p2371GE
+PBS NEWSHOUR - Official
+
+245 /store/apps/details?id=va.news.thepopeapp
+Vatican News
+
+246 /store/apps/details?id=com.channelnewsasia
+CNA
+
+247 /store/apps/details?id=com.crypto.news.Apps
+Crypto News: Bitcoin, Altcoins & Blockchain news
+
+248 /store/apps/details?id=com.july.ndtv
+NDTV News - India
+
+249 /store/apps/details?id=com.sonus.news.india.tamil.newspaper
+Tamil News - All Tamil Newspaper, India
+
