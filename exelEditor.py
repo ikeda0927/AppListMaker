@@ -17,7 +17,7 @@ def GetData(url):
     spans=soup.find_all('span', class_="htlgb")
     if soup.find('title',id="main-title") ==None:
         return None
-    tuple=(soup.find('title',id="main-title").contents[0],soup.find('a', class_="hrTbp R8zArc").contents[0],spans[7].contents[0],spans[5].contents[0],spans[1].contents[0].replace('年','/').replace('月','/').replace('日','/'))
+    tuple=(soup.find('title',id="main-title").contents[0],soup.find('a', class_="hrTbp R8zArc").contents[0],spans[7].contents[0],spans[5].contents[0],spans[1].contents[0].replace('年','/').replace('月','/').replace('日',''))
     return tuple
 
 if __name__ == '__main__':
