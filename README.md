@@ -8,7 +8,7 @@
 
 ※追記 この方法では検索結果の250件しか得られませんでした...  
 ※簡単な対応策を追記  
-※追記(2019/10/15)exelEditor.pyは__Windows非対応__なのでOSXかLinuxで実行してください。また、別途pip3(pip)で必要なパッケージがあるので、以下のコマンドでインストールしてください。
+※追記(2019/10/15)exelEditor.pyは __Windows非対応__ なのでOSXかLinuxで実行してください。また、別途pip3(pip)で必要なパッケージがあるので、以下のコマンドでインストールしてください。
 ~~~
 pip3 install openpyxl beautifulsoup4 requests
 ~~~
