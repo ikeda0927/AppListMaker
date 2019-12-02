@@ -139,6 +139,7 @@ python3 exelEditor.py appList1.txt 氏名(省略可)
 appInstallHelper.pyを使えば、上で作成したエクセル（Bの列にURLさえあれば問題ない）を元に自動でアプリをインストールできます。  
 
 ※動作を確認したのはmacOS Catalinaのみです。  
+※Windowsで実行してutf-8何たらかんたらのエラーが出た場合はShowHelp()内のprintfの行をNoneに置き換えてください。
 
 ##### 準備
 
