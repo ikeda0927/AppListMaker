@@ -160,17 +160,19 @@ https://chromedriver.chromium.org/downloads
 
 ##### 実行
 
-appInstallHelper.pyを動かすためには４つの値を指定する必要があります。  
+appInstallHelper.pyを動かすためには5つの値を指定する必要があります。  
 
 一つ目はメールアドレス  
 二つ目はパスワード  
 三つ目はandroid_applist.xlsxでのstart Index（始まりの値）  
-四つ目はandroid_applist.xlsxでのend Index（終わりの値）
+四つ目はandroid_applist.xlsxでのend Index（終わりの値）  
+五つ目はchromedrivverへのパス
 
 メールアドレスの指定は -m \<mailaddress\>  
 パスワードの指定は    -p \<password\>  
 start Indexの指定は　-s \<start Index\>  
 end Indexの指定は　　-e \<end Index\>  
+chromedriverへのパス指定は -c \<chromedriverへのパス\>
 
 のように指定します。  
 または、メールアドレスとパスワードをファイルに記述(1行目にメールアドレス、2行目にパスワード)してそのファイルへのパスを  
@@ -179,11 +181,11 @@ end Indexの指定は　　-e \<end Index\>
 
  例1  
 ~~~
-python3 appInstallHelper.py -m testmail@gmail.com -p password -s 100 -e 110
+python3 appInstallHelper.py -m testmail@gmail.com -p password -s 100 -e 110 -c ./chromedriver
 ~~~
 
 ~~~
-python3 appInstallHelper.py -f address.txt -s 100 -e 110
+python3 appInstallHelper.py -f address.txt -s 100 -e 110 -c ./chromedriver
 ~~~  
 
 
