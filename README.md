@@ -1,6 +1,15 @@
 ## 無理やりgoogle play store上のアプリのリストを取得する方法
 
 おそらく期待しているのとはちょっと違うのですが調べても出てこない上にこれしかいい案が浮かばなかったのでご了承ください。  
+
+- [全体像](https://github.com/ikeda0927/AppListMaker#全体像)  
+- [方法](https://github.com/ikeda0927/AppListMaker#方法)  
+- [250件までしか検索結果に表示されない件](https://github.com/ikeda0927/AppListMaker#250件までしか検索結果に表示されない件)  
+- [appListIntegrator.pyの使い方](https://github.com/ikeda0927/AppListMaker#appListIntegrator.pyの使い方)  
+- [Excelに反映](https://github.com/ikeda0927/AppListMaker#Excelに反映)  
+- [アプリをインストールする（自動で）](https://github.com/ikeda0927/AppListMaker#アプリをインストールする（自動で）)  
+
+
 ### 全体像
 ---  
 手動でgoogle play storeを開き、取得したいアプリのジャンルなどを検索欄に入力し、開発者モードに入り、検索して出てきたアプリの一覧をコンソールでjavascriptを実行し、取得する...感じです。  
@@ -100,8 +109,8 @@ python3 appListIntegrator.py appList1.txt appList2.txt
 
 これを何回か繰り返して、何回やっても増加分が0になるようであればアプリのリストの精度が高くなったと言えるでしょう。  
 
-### Exelに反映
-上記の方法で取得したリストをExelに反映させます。  
+### Excelに反映
+上記の方法で取得したリストをExcelに反映させます。  
 
 まず、前提として、  
 
@@ -111,7 +120,7 @@ python3 appListIntegrator.py appList1.txt appList2.txt
 
 こんな感じの表になっているとします。  
 
-上の形式のExelファイルと上で作成したappList1.txt(名前は変更可)のあるディレクトリ上で  
+上の形式のExcelファイルと上で作成したappList1.txt(名前は変更可)のあるディレクトリ上で  
 
 ~~~
 python3 exelEditor.py appList1.txt 氏名(省略可)
@@ -124,3 +133,58 @@ python3 exelEditor.py appList1.txt 氏名(省略可)
 なお、重複などは無視されます。  
 
 競合はおこるかもしれません
+
+### アプリをインストールする（自動で）
+
+appInstallHelper.pyを使えば、上で作成したエクセル（Bの列にURLさえあれば問題ない）を元に自動でアプリをインストールできます。  
+
+※動作を確認したのはmacOS Catalinaのみです。  
+
+##### 準備
+
+まずは必要なものを用意します。
+~~~
+pip3 install selenium
+~~~
+でブラウザをPythonで操作するためにseleniumをインストールします。
+
+次に、ChromeのWebDriverをダウンロードします。  
+
+Chromeの　設定 > Chromeについて　から現在使用しているChromeのバージョンを確認します。  
+
+https://chromedriver.chromium.org/downloads  
+
+から、上で確認したバージョンにあったwebdriverをダウンロードしてください。  
+
+ダウンロードしたものを展開して、出てきたchromedriverをappInstallHelper.pyと同じディレクトリにおきます。  
+
+##### 実行
+
+appInstallHelper.pyを動かすためには４つの値を指定する必要があります。  
+
+一つ目はメールアドレス  
+二つ目はパスワード  
+三つ目はandroid_applist.xlsxでのstart Index（始まりの値）  
+四つ目はandroid_applist.xlsxでのend Index（終わりの値）
+
+メールアドレスの指定は -m \<mailaddress\>  
+パスワードの指定は    -p \<password\>  
+start Indexの指定は　-s \<start Index\>  
+end Indexの指定は　　-e \<end Index\>  
+
+のように指定します。  
+または、メールアドレスとパスワードをファイルに記述(1行目にメールアドレス、2行目にパスワード)してそのファイルへのパスを  
+ -f \<ファイルへのパス\>  
+ として渡すことも可能です。  
+
+ 例1  
+~~~
+python3 appInstallHelper.py -m testmail@gmail.com -p password -s 100 -e 110
+~~~
+
+~~~
+python3 appInstallHelper.py -f address.txt -s 100 -e 110
+~~~  
+
+
+問題がなければ、ブラウザが開いて、自動的にインストールが進みます。
