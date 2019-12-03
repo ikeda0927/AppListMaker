@@ -35,13 +35,16 @@ def Read(q):
     # driver.find_element_by_class_name('WpDbMd').send_keys(Keys.END)
     startTime=time.time()
     contents=0
-    while time.time()-startTime<scrollTime and contents<contentSum:
-        driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-        # contents=len(driver.find_elements_by_class_name('Vpfmgd'))
-        contents=len(driver.find_elements_by_class_name('poRVub'))
-        # print(contents)
-        if contentMax<contents:
-            return None
+    try:
+        while time.time()-startTime<scrollTime and contents<contentSum:
+            driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+            # contents=len(driver.find_elements_by_class_name('Vpfmgd'))
+            contents=len(driver.find_elements_by_class_name('poRVub'))
+            # print(contents)
+            if contentMax<contents:
+                return None
+    except KeyboardInterrupt:
+        return None:
     # return driver.find_elements_by_class_name('Vpfmgd')
     return driver.find_elements_by_class_name('poRVub')
 
@@ -55,53 +58,56 @@ def GetData(url):
     return tuple
 
 def WriteToExcel(appList):
-    exelFile='./android_applist.xlsx'
-    book = px.load_workbook(exelFile)
+    excelFile='./android_applist.xlsx'
+    book = px.load_workbook(excelFile)
     sheet= book['調査対象リスト']
     columnNum=1
     rowAlp=65
-    counter=0
     startIndex=0
     # ## DEBUG
     # max=15
     # limitCounter=0
     # ## DEBUG
-    for i in appList:
-        link=str(i.get_attribute('href'))
-        while True:
-            # print(link)
-            # print(str(sheet[chr(rowAlp+1)+str(columnNum+counter)].value))
-            if link==str(sheet[chr(rowAlp+1)+str(columnNum+counter)].value):
+    try:
+        for i in appList:
+            link=str(i.get_attribute('href'))
+            counter=0
+            while True:
                 # print(link)
                 # print(str(sheet[chr(rowAlp+1)+str(columnNum+counter)].value))
-                break
-            elif sheet[chr(rowAlp+1)+str(columnNum+counter)].value==None:
-                print(link)
-                tuple=GetData(link)
-                if tuple ==None:
-                    print('######### PAGE NOT FOUND -> '+link+'#########')
-                    break;
-                sheet[chr(rowAlp+0)+str(columnNum+counter)].value=tuple[0]
-                sheet[chr(rowAlp+1)+str(columnNum+counter)].value=link
-                sheet[chr(rowAlp+2)+str(columnNum+counter)].value=tuple[1]
-                sheet[chr(rowAlp+3)+str(columnNum+counter)].value=tuple[2]
-                sheet[chr(rowAlp+4)+str(columnNum+counter)].value=tuple[3]
-                sheet[chr(rowAlp+5)+str(columnNum+counter)].value=tuple[4]
-                sheet[chr(rowAlp+6)+str(columnNum+counter)].value=query
-                sheet[chr(rowAlp+8)+str(columnNum+counter)].value=name
-                book.save(exelFile)
-                if startIndex==0:
-                    startIndex=counter
-                break
-            counter+=1
-        # ## Debug
-        # limitCounter+=1
-        # if limitCounter>max:
-        #     break
-        # ## DEbug
-    # book.save(exelFile)
-    if startIndex!=0:
-        print('追加されたindexは '+str(startIndex)+' から '+str(counter)+'です。')
+                if link==str(sheet[chr(rowAlp+1)+str(columnNum+counter)].value):
+                    # print(link)
+                    # print(str(sheet[chr(rowAlp+1)+str(columnNum+counter)].value))
+                    break
+                elif sheet[chr(rowAlp+1)+str(columnNum+counter)].value==None:
+                    print(link)
+                    tuple=GetData(link)
+                    if tuple ==None:
+                        print('######### PAGE NOT FOUND -> '+link+'#########')
+                        break;
+                    sheet[chr(rowAlp+0)+str(columnNum+counter)].value=tuple[0]
+                    sheet[chr(rowAlp+1)+str(columnNum+counter)].value=link
+                    sheet[chr(rowAlp+2)+str(columnNum+counter)].value=tuple[1]
+                    sheet[chr(rowAlp+3)+str(columnNum+counter)].value=tuple[2]
+                    sheet[chr(rowAlp+4)+str(columnNum+counter)].value=tuple[3]
+                    sheet[chr(rowAlp+5)+str(columnNum+counter)].value=tuple[4]
+                    sheet[chr(rowAlp+6)+str(columnNum+counter)].value=query
+                    sheet[chr(rowAlp+8)+str(columnNum+counter)].value=name
+                    book.save(excelFile)
+                    if startIndex==0:
+                        startIndex=counter
+                    break
+                counter+=1
+            # ## Debug
+            # limitCounter+=1
+            # if limitCounter>max:
+            #     break
+            # ## DEbug
+        # book.save(excelFile)
+        if startIndex!=0:
+            print('追加されたindexは '+str(startIndex)+' から '+str(counter)+'です。')
+    except KeyboardInterrupt:
+        print('Keyboard Interrupted')
 
 def ShowHelp():
     print('-c [str]\n\tchromedriverへのパスを指定（必須）\n-q [str]\n\t検索クエリを指定\n\t検索が終了したら、結果をExcelに出力するか聞かれるので、検索クエリを確認してyかnを入力する。\n\tyを入力した場合は名前を聞かれるので名前を入力するとexcelに出力される。')
@@ -116,7 +122,7 @@ if __name__=='__main__':
             elif sys.argv[i]=='-q':
                 if len(sys.argv)>=i+2:
                     query=sys.argv[i+1]
-        print('len '+str(len(sys.argv)))
+        # print('len '+str(len(sys.argv)))
     else:
         ShowHelp()
     if query != None and chromedriverPath != None:
@@ -129,11 +135,13 @@ if __name__=='__main__':
             if ans=='y':
                 print('Enter your Name')
                 name=input()
+                print('Pleas wait...')
                 WriteToExcel(appList)
             elif ans=='n':
                 print('Not exported')
             else:
                 print('Enter \'y\' or \'n\'')
+        driver.quit()
         #     for i in appList:
         #         print(str(i.get_attribute('href')))
         # print()
