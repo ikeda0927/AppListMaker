@@ -7,7 +7,7 @@
 - [250件までしか検索結果に表示されない件](https://github.com/ikeda0927/AppListMaker#250件までしか検索結果に表示されない件)  
 - [appListIntegrator.pyの使い方](https://github.com/ikeda0927/AppListMaker#appListIntegrator.pyの使い方)  
 - [Excelに反映](https://github.com/ikeda0927/AppListMaker#Excelに反映)  
-- [アプリをインストールする（自動で）](https://github.com/ikeda0927/AppListMaker#アプリをインストールする（自動で）)  
+- [アプリをインストールする（自動で）](https://github.com/ikeda0927/AppListMaker#自動でアプリをインストールする)  
 
 
 ### 全体像
@@ -134,7 +134,7 @@ python3 exelEditor.py appList1.txt 氏名(省略可)
 
 競合はおこるかもしれません
 
-### アプリをインストールする（自動で）
+### 自動でアプリをインストールする
 
 appInstallHelper.pyを使えば、上で作成したエクセル（Bの列にURLさえあれば問題ない）を元に自動でアプリをインストールできます。  
 
