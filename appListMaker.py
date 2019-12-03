@@ -62,10 +62,10 @@ def WriteToExcel(appList):
     rowAlp=65
     counter=0
     startIndex=0
-    ## DEBUG
-    max=1
-    limitCounter=0
-    ## DEBUG
+    # ## DEBUG
+    # max=15
+    # limitCounter=0
+    # ## DEBUG
     for i in appList:
         link=str(i.get_attribute('href'))
         while True:
@@ -94,17 +94,17 @@ def WriteToExcel(appList):
                     startIndex=counter
                 break
             counter+=1
-        ## Debug
-        limitCounter+=1
-        if limitCounter>max:
-            break
-        ## DEbug
+        # ## Debug
+        # limitCounter+=1
+        # if limitCounter>max:
+        #     break
+        # ## DEbug
     # book.save(exelFile)
     if startIndex!=0:
         print('追加されたindexは '+str(startIndex)+' から '+str(counter)+'です。')
 
 def ShowHelp():
-    print('-c [str]\n\tchromedriverへのパスを指定（必須）\n-q [str]\n\t検索クエリを指定')
+    print('-c [str]\n\tchromedriverへのパスを指定（必須）\n-q [str]\n\t検索クエリを指定\n\t検索が終了したら、結果をExcelに出力するか聞かれるので、検索クエリを確認してyかnを入力する。\n\tyを入力した場合は名前を聞かれるので名前を入力するとexcelに出力される。')
 
 if __name__=='__main__':
     if len(sys.argv)>=2:
