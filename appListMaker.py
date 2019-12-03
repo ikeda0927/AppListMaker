@@ -69,19 +69,19 @@ def WriteToExcel(appList):
     # max=15
     # limitCounter=0
     # ## DEBUG
-    counter1=0
-    counter2=0
+    # counter1=0
+    # counter2=0
     isEnd=False
     for i in appList:
         link=str(i.get_attribute('href'))
         counter=0
-        print('counter1 : '+str(counter1))
-        counter1+=1
-        counter2=0
+        # print('counter1 : '+str(counter1))
+        # counter1+=1
+        # counter2=0
         while not isEnd:
             try:
-                print('counter2 : '+str(counter2))
-                counter2+=1
+                # print('counter2 : '+str(counter2))
+                # counter2+=1
                 # print(link)
                 # print(str(sheet[chr(rowAlp+1)+str(columnNum+counter)].value))
                 if link==str(sheet[chr(rowAlp+1)+str(columnNum+counter)].value):
@@ -123,7 +123,7 @@ def WriteToExcel(appList):
         print('追加されたindexは '+str(startIndex)+' から '+str(counter)+'です。')
 
 def ShowHelp():
-    print('-c [str]\n\tchromedriverへのパスを指定（必須）\n-q [str]\n\t検索クエリを指定\n\n\t検索が終了したら、結果をExcelに出力するか聞かれるので、検索クエリを確認してyかnを入力する。\n\tyを入力した場合は名前を聞かれるので名前を入力するとexcelに出力される。')
+    print('-c [str]\n\tchromedriverへのパスを指定（必須）\n-q [str]\n\t検索クエリを指定（必須）\n\n\t検索が終了したら、結果をExcelに出力するか聞かれるので、検索クエリを確認してyかnを入力する。\n\tyを入力した場合は名前を聞かれるので名前を入力するとexcelに出力される。')
 
 if __name__=='__main__':
     if len(sys.argv)>=2:

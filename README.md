@@ -7,6 +7,7 @@
 - [250件までしか検索結果に表示されない件](https://github.com/ikeda0927/AppListMaker#250件までしか検索結果に表示されない件)  
 - [appListIntegrator.pyの使い方](https://github.com/ikeda0927/AppListMaker#appListIntegrator.pyの使い方)  
 - [Excelに反映](https://github.com/ikeda0927/AppListMaker#Excelに反映)  
+- [上の工程の自動化](https://github.com/ikeda0927/AppListMaker#上の工程の自動化)  
 - [自動でアプリをインストールする](https://github.com/ikeda0927/AppListMaker#自動でアプリをインストールする)  
 
 
@@ -132,7 +133,47 @@ python3 exelEditor.py appList1.txt 氏名(省略可)
 
 なお、重複などは無視されます。  
 
-競合はおこるかもしれません
+競合はおこるかもしれません  
+
+### 上の工程の自動化
+
+※appListMaker.pyを使えば、上の工程を自動化できます。（動作が不安定で、テスト中にExcelのファイルがExcelでなくなったことがあるので、念のためandroid_applist.xlsxのバックアップを別ファイルに取ってから実行してください。）  
+
+##### 準備  
+
+同じディレクトリにandroid_applist.xlsxがあることと、openpyxl, beautifulsoup4 requests, seleniumの４つのpythonのパッケージがあることを確認してください。  
+
+pythonのパッケージがない場合は、
+~~~
+pip3 install openpyxl beautifulsoup4 requests selenium
+~~~
+
+を実行してください。  
+
+まだ、chromedriverをダウンロードしていない場合は、[自動でアプリをインストールする](https://github.com/ikeda0927/AppListMaker#自動でアプリをインストールする) を読んでchromedriverをダウンロードしておいてください。  
+
+##### 実行
+appListMaker.pyを動かすためには2つの値を指定する必要があります。  
+
+一つ目はchromedriverへのパス  
+二つ目は検索クエリ  
+
+chromedriverへのパスの指定は -c <chromedriverへのパス>  
+検索クエリへのパスの指定は -q <検索クエリ>  
+のように指定してください。  
+
+例
+~~~
+python3 appListMaker.py -c ./chromedriver -q browser
+~~~
+
+上のように実行すると、Google play store でbrowserを検索した結果(250件)を集めてくれます。  
+
+集め終わったら、terminalからExcelに出力するか聞かれるので、検索クエリを確認してyかnを入力してください。  
+
+yを入力すると、名前を聞かれるので名前を入力してください。  
+
+問題がなければ、無事に追加されます。  
 
 ### 自動でアプリをインストールする
 
