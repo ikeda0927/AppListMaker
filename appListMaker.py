@@ -20,6 +20,7 @@ scrollTime=20
 contentSum=245
 contentMax=252
 name=''
+# isEnd=False
 # contents=0
 
 def Read(q):
@@ -44,7 +45,7 @@ def Read(q):
             if contentMax<contents:
                 return None
     except KeyboardInterrupt:
-        return None:
+        return None
     # return driver.find_elements_by_class_name('Vpfmgd')
     return driver.find_elements_by_class_name('poRVub')
 
@@ -68,11 +69,19 @@ def WriteToExcel(appList):
     # max=15
     # limitCounter=0
     # ## DEBUG
-    try:
-        for i in appList:
-            link=str(i.get_attribute('href'))
-            counter=0
-            while True:
+    counter1=0
+    counter2=0
+    isEnd=False
+    for i in appList:
+        link=str(i.get_attribute('href'))
+        counter=0
+        print('counter1 : '+str(counter1))
+        counter1+=1
+        counter2=0
+        while not isEnd:
+            try:
+                print('counter2 : '+str(counter2))
+                counter2+=1
                 # print(link)
                 # print(str(sheet[chr(rowAlp+1)+str(columnNum+counter)].value))
                 if link==str(sheet[chr(rowAlp+1)+str(columnNum+counter)].value):
@@ -93,21 +102,25 @@ def WriteToExcel(appList):
                     sheet[chr(rowAlp+5)+str(columnNum+counter)].value=tuple[4]
                     sheet[chr(rowAlp+6)+str(columnNum+counter)].value=query
                     sheet[chr(rowAlp+8)+str(columnNum+counter)].value=name
-                    book.save(excelFile)
+                    # book.save(excelFile)
                     if startIndex==0:
                         startIndex=counter
                     break
                 counter+=1
-            # ## Debug
-            # limitCounter+=1
-            # if limitCounter>max:
-            #     break
-            # ## DEbug
-        # book.save(excelFile)
-        if startIndex!=0:
-            print('追加されたindexは '+str(startIndex)+' から '+str(counter)+'です。')
-    except KeyboardInterrupt:
-        print('Keyboard Interrupted')
+            except KeyboardInterrupt:
+                isEnd=True
+                print('Keyboard Interrupted')
+        if isEnd:
+            break
+        # ## Debug
+        # limitCounter+=1
+        # if limitCounter>max:
+        #     break
+        # ## DEbug
+    # book.save(excelFile)
+    book.save(excelFile)
+    if startIndex!=0:
+        print('追加されたindexは '+str(startIndex)+' から '+str(counter)+'です。')
 
 def ShowHelp():
     print('-c [str]\n\tchromedriverへのパスを指定（必須）\n-q [str]\n\t検索クエリを指定\n\t検索が終了したら、結果をExcelに出力するか聞かれるので、検索クエリを確認してyかnを入力する。\n\tyを入力した場合は名前を聞かれるので名前を入力するとexcelに出力される。')
