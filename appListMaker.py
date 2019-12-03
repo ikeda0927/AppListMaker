@@ -123,7 +123,7 @@ def WriteToExcel(appList):
         print('追加されたindexは '+str(startIndex)+' から '+str(counter)+'です。')
 
 def ShowHelp():
-    print('-c [str]\n\tchromedriverへのパスを指定（必須）\n-q [str]\n\t検索クエリを指定\n\t検索が終了したら、結果をExcelに出力するか聞かれるので、検索クエリを確認してyかnを入力する。\n\tyを入力した場合は名前を聞かれるので名前を入力するとexcelに出力される。')
+    print('-c [str]\n\tchromedriverへのパスを指定（必須）\n-q [str]\n\t検索クエリを指定\n\n\t検索が終了したら、結果をExcelに出力するか聞かれるので、検索クエリを確認してyかnを入力する。\n\tyを入力した場合は名前を聞かれるので名前を入力するとexcelに出力される。')
 
 if __name__=='__main__':
     if len(sys.argv)>=2:
@@ -136,8 +136,6 @@ if __name__=='__main__':
                 if len(sys.argv)>=i+2:
                     query=sys.argv[i+1]
         # print('len '+str(len(sys.argv)))
-    else:
-        ShowHelp()
     if query != None and chromedriverPath != None:
         driver = webdriver.Chrome(chromedriverPath)
         appList=Read(query)
