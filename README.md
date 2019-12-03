@@ -7,7 +7,7 @@
 - [250件までしか検索結果に表示されない件](https://github.com/ikeda0927/AppListMaker#250件までしか検索結果に表示されない件)  
 - [appListIntegrator.pyの使い方](https://github.com/ikeda0927/AppListMaker#appListIntegrator.pyの使い方)  
 - [Excelに反映](https://github.com/ikeda0927/AppListMaker#Excelに反映)  
-- [アプリをインストールする（自動で）](https://github.com/ikeda0927/AppListMaker#自動でアプリをインストールする)  
+- [自動でアプリをインストールする](https://github.com/ikeda0927/AppListMaker#自動でアプリをインストールする)  
 
 
 ### 全体像
@@ -138,7 +138,8 @@ python3 exelEditor.py appList1.txt 氏名(省略可)
 
 appInstallHelper.pyを使えば、上で作成したエクセル（Bの列にURLさえあれば問題ない）を元に自動でアプリをインストールできます。  
 
-※動作を確認したのはmacOS Catalinaのみです。  
+※動作を確認したのはmacOS CatalinaとWindos10です。  
+※エラーが発生した場合は教えてください。  
 ※Windowsで実行してutf-8何たらかんたらのエラーが出た場合はShowHelp()内のprintfの行をNoneに置き換えてください。
 
 ##### 準備
