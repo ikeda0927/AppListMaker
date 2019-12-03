@@ -185,7 +185,7 @@ chromedriverへのパス指定は -c \<chromedriverへのパス\>
 ~~~
 python3 appInstallHelper.py -m testmail@gmail.com -p password -s 100 -e 110 -c ./chromedriver
 ~~~
-
+ 例2
 ~~~
 python3 appInstallHelper.py -f address.txt -s 100 -e 110 -c ./chromedriver
 ~~~  
