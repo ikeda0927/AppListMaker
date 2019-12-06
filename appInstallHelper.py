@@ -79,8 +79,12 @@ def ReadAndExcute(mailAddress,password,start,end):
 def Execute(url):
     driver.get(url)
     try:
-        WebDriverWait(driver,20).until(EC.presence_of_element_located((By.XPATH,'/html/body/div[1]/div[4]/c-wiz/div/div[2]/div/div[1]/div/c-wiz[1]/c-wiz[1]/div/div[2]/div/div[2]/div/div[2]/div/c-wiz/c-wiz/button')))
-        driver.find_element_by_xpath('/html/body/div[1]/div[4]/c-wiz/div/div[2]/div/div[1]/div/c-wiz[1]/c-wiz[1]/div/div[2]/div/div[2]/div/div[2]/div/c-wiz/c-wiz/button').click()
+        # WebDriverWait(driver,20).until(EC.presence_of_element_located((By.XPATH,'/html/body/div[1]/div[4]/c-wiz/div/div[2]/div/div[1]/div/c-wiz[1]/c-wiz[1]/div/div[2]/div/div[2]/div/div[2]/div/c-wiz/c-wiz/button')))
+        # driver.find_element_by_xpath('/html/body/div[1]/div[4]/c-wiz/div/div[2]/div/div[1]/div/c-wiz[1]/c-wiz[1]/div/div[2]/div/div[2]/div/div[2]/div/c-wiz/c-wiz/button').click()
+        WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH,
+                                                                        '//*[@id="fcxH9b"]/div[4]/c-wiz/div/div[2]/div/div[1]/div/c-wiz[1]/c-wiz[1]/div/div[2]/div/div[2]/div/div[2]/div/c-wiz/c-wiz/div/span/button')))
+        driver.find_element_by_xpath(
+            '//*[@id="fcxH9b"]/div[4]/c-wiz/div/div[2]/div/div[1]/div/c-wiz[1]/c-wiz[1]/div/div[2]/div/div[2]/div/div[2]/div/c-wiz/c-wiz/div/span/button').click()
         #/html/body/div/div/div[2]/div[3]/span/button
         # WebDriverWait(driver,20).until(EC.presence_of_element_located((By.XPATH,'/html/body/div/div/div[2]/div[3]/span/button')))
         # driver.find_element_by_xpath('/html/body/div/div/div[2]/div[3]/span/button').click()
@@ -91,14 +95,17 @@ def Execute(url):
         WebDriverWait(driver,20).until(EC.presence_of_element_located((By.CSS_SELECTOR,'body > div > div > div.g3VIld.LhXUod.drrice.Up8vH.J9Nfi.iWO5td > div.XfpsVe.J9fJmf > span > button')))
         driver.find_element_by_css_selector('body > div > div > div.g3VIld.LhXUod.drrice.Up8vH.J9Nfi.iWO5td > div.XfpsVe.J9fJmf > span > button').click()
         WebDriverWait(driver,20).until(EC.presence_of_element_located((By.NAME,'password')))
-        driver.find_element_by_name('password').send_keys(password)
+        driver.find_element_by_name('password').send_keys('bq5uf3zp0')
         driver.find_element_by_id('passwordNext').click()
         # sleep(10)/html/body/div[5]/iframe //*[@id="I0_1575297251288"]
         # driver.switch_to().parent_frame()
         WebDriverWait(driver,20).until(EC.presence_of_element_located((By.XPATH,'/html/body/div[5]/iframe')))
         driver.switch_to.frame(driver.find_element_by_xpath('/html/body/div[5]/iframe'))
-        WebDriverWait(driver,20).until(EC.presence_of_element_located((By.XPATH,'/html/body/div/div/div[2]/div[3]/button')))
-        driver.find_element_by_xpath('/html/body/div/div/div[2]/div[3]/button').click()
+        # WebDriverWait(driver,20).until(EC.presence_of_element_located((By.XPATH,'/html/body/div/div/div[2]/div[3]/button')))
+        # driver.find_element_by_xpath('/html/body/div/div/div[2]/div[3]/button').click()
+        WebDriverWait(driver,20).until(EC.presence_of_element_located((By.XPATH,'/html/body/div[2]/div/div[2]/div[3]/div/div/button')))
+        driver.find_element_by_xpath('/html/body/div[2]/div/div[2]/div[3]/div/div/button').click()
+
     except TimeoutException:
         print('Can\'t Install')
 
